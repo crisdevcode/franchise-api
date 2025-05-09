@@ -1,0 +1,12 @@
+# MongoDB Atlas credentials
+atlas_public_key  = "your-atlas-public-key"
+atlas_private_key = "your-atlas-private-key"
+atlas_org_id      = "your-atlas-org-id"
+
+# MongoDB cluster configuration
+project_name      = "your-project-name"
+cluster_name      = "your-cluster-name"
+
+# Database credentials
+db_username       = "your-db-username"
+db_password       = "your-db-password"
