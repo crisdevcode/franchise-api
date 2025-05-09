@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: franchise-api
+
+  profiles:
+    active: dev
+
+server:
+  port: 8080
+
+logging:
+  level:
+    com.cristian.franchise: INFO
